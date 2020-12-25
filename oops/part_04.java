@@ -36,6 +36,7 @@ public class part_04 {
     // You can not access an non-static variable inside of a static method.
 
     // https://www.youtube.com/watch?v=ZBJ0u9MaKtM
+    // https://www.youtube.com/watch?v=QHIWkwxs0AI
 
     public static void main(String[] args) {
         Dbit anna = new Dbit();
